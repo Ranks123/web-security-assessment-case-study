@@ -1,0 +1,18 @@
+# Sensitive files
+*.key
+*.pem
+*.env
+config.json
+*.secret
+
+# Logs
+*.log
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
